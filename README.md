@@ -30,6 +30,5 @@
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>&nbsp
 </p>
 <br>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJujinsol=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
