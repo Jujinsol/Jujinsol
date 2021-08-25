@@ -2,7 +2,8 @@
   <h1> Hi There 🍔 </h1>
   <img src="https://mblogthumb-phinf.pstatic.net/20150123_174/minji4203_1422013588864P5hu5_GIF/tumblr_ndf3u5EZUZ1sfvmr7o1_400.gif?type=w2"><br>
   <h3🌭 Tech Stack 🌭</h3>
-  Thechs that I've used at least once
+  <br>
+  <h6>Thechs that I've used at least once</h6>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
