@@ -29,5 +29,4 @@
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>&nbsp
 </p>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJujinsolanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
